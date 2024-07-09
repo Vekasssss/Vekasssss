@@ -1,3 +1,5 @@
+![Vikas Kumar](https://github.com/Vekasssss/Vekasssss/blob/main/VikasKumar-ezgif.com-crop.gif)
+
 - 👋 Hi, I’m Vikas
 - 👀 I’m interested deep into Data Analysis related works 
 - 🌱 I’m currently learning deep into SQL, Power BI, Excel, Python, Machine Learning 
