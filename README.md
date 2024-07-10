@@ -1,5 +1,8 @@
 ![Vikas Kumar](https://github.com/Vekasssss/Vekasssss/blob/main/VikasKumar-ezgif.com-crop.gif)
 
+  [![HitCount](https://hits.dwyl.com/Vekasssss/Vekasssss.svg?style=flat-square)](http://hits.dwyl.com/Vekasssss/Vekasssss)
+
+
 - 👋 Hi, I’m Vikas
 - 👀 I’m interested deep into Data Analysis related works 
 - 🌱 I’m currently learning deep into SQL, Power BI, Excel, Python, Machine Learning 
